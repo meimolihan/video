@@ -15,6 +15,6 @@
 
 * **GitHub地址下载命令【cmd/ssh】**  
 ```bash
-wget -O 和风天气时钟插件安装.mp4 https://raw.githubusercontent.com/meimolihan/video/refs/heads/main/和风天气时钟插件安装.mp4
+<video src="https://raw.githubusercontent.com/meimolihan/video/refs/heads/main/和风天气时钟插件安装.mp4" controls="controls" width="650" height="400"></video>
 ```
 
